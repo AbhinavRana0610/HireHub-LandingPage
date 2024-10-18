@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+    
+}
+.banner
+{
+width: 550px;
+height: 300px;
+display: inline-block;
+
+margin-left: 30px;
+margin-right: -4px;
+}
+.img
+{
+    width: 600px;
+    height: 400px;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 30px;
+    padding-top: 40px;
+}
+
+.size
+{
+    width: 600px;
+    height: 320px;
+    position: relative;
+    margin-left: 2rem;
+}
+.align
+{
+    display: inline-block;
+    padding-left: 40px;
+    margin-top: 40px;
+    vertical-align: top;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.deepak
+{
+    margin-top: 60px;
+    line-height: 1.5;
+    font-weight: 800;
+    font-size: 1.6rem;
+    
+}
+h1
+{
+font-weight: 900;
+}
+.para
+{
+    margin-top: 30px;
+    line-height: 1.9;
+}
+.get
+{
+    margin-top: 30px;
+    display: inline-block;
+   
+}
+.learn
+{
+    display: inline-block;
+}
+
+.logo
+{
+    width: 150px;
+    height: 45px;
+    margin-top: -10px;
+}
+.top-head
+{
+    margin-left: 20px;
+}
+.button
+{
+    border-radius: 30px;
+    width: 180px;
+    height: 50px;
+    font-size: 1rem;
+    border: 1.5px solid #EBBD00;
+    background-color: white;
+    color: #EBBD00;
+  
+}
+.contact
+{
+    border-radius: 20px;
+    color: white;
+    background-color: #EBBD00;
+    border: none;
+    width: 120px;
+    height: 30px;
+    font-size: 12px;
+    
+}
+.align1
+{
+display: inline-block;
+margin-top: 33px;
+margin-left: 20px;
+}
+.times
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+.wave 
+{
+    width: 100%;
+    height: 36rem;
+   position: absolute;
+   left: 0%;
+   top: 1%;
+   z-index: -1;
+}
